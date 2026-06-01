@@ -835,6 +835,7 @@
 - [Token Libraries with Proofs](https://github.com/sec-bit/tokenlibs-with-proofs) - Contains correctness proofs of token contracts wrt. given specifications and high-level properties
 - [Provable API](https://github.com/provable-things/ethereum-api) - Provides contracts for using the Provable service, allowing for off-chain actions, data-fetching, and computation
 - [ABDK Libraries for Solidity](https://github.com/abdk-consulting/abdk-libraries-solidity) - Fixed-point (64.64 bit) and IEEE-754 compliant quad precision (128 bit) floating-point math libraries for Solidity
+- [DeFiMath](https://github.com/MerkleBlue/defimath) - Gas-optimized Solidity library for DeFi math: Black-Scholes option pricing, Greeks, interest rates, and statistics
 
 #### Patterns for Smart Contracts
 
